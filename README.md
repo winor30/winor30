@@ -1,4 +1,12 @@
-### Hi there 👋
+### winor30 👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=winor30&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winor30&exclude_repo=github-readme-stats,anuraghazra.github.io&show_icons=true&theme=dark" />
+</a>
 
 <!--
 **winor30/winor30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
