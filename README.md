@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winor30&exclude_repo=github-readme-stats,anuraghazra.github.io&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winor30&exclude_repo=github-readme-stats,anuraghazra.github.io&show_icons=true&theme=dark&hide=makefile" />
 </a>
 
 <!--
